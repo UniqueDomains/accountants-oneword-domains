@@ -1,13 +1,13 @@
 
-# List of .ACCOUNTANTS One Word Domain Names (3,259)
+# List of .ACCOUNTANTS One Word Domain Names (3,402)
 
-[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/accountants-oneword-domains.svg?style=flat)]() [![3,259 .ACCOUNTANTS one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-3%2C259-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
+[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/accountants-oneword-domains.svg?style=flat)]() [![3,402 .ACCOUNTANTS one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-3%2C402-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
 
 We constantly sweep the web to catalog the highest potential .ACCOUNTANTS one-word domains still available to buy.
 
 This dataset contains 1,000 .ACCOUNTANTS one word domains with availability, attractiveness and demand scores.
 
-If you want to search & filters the complete database of [.ACCOUNTANTS one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=description.top) (3,259) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
+If you want to search & filters the complete database of [.ACCOUNTANTS one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=description.top) (3,402) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
 -----------
 
@@ -15,48 +15,48 @@ If you want to search & filters the complete database of [.ACCOUNTANTS one word 
     <a href="https://github.com/UniqueDomains/accountants-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
     <a href="https://github.com/UniqueDomains/accountants-oneword-domains/blob/main/all.csv"><b>⬇️ CSV (1K domains)</b></a> •
     <a href="https://github.com/UniqueDomains/accountants-oneword-domains/blob/main/all.json"><b>⬇️ JSON (1K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.26K)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.4K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain                 | Status    | Attract. | Demand | Length | Created | Expires | Actions                                                                                                                                                                                      |
-| ---------------------- | --------- | -------- | ------ | ------ | ------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| abactinal.accountants  | available | 50       | 1%     | 9      |         |         | [Analyse](https://unique.domains/domain/624b951d-d265-4be3-828c-e65a70300163?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
-| abaft.accountants      | available | 43       | 2%     | 5      |         |         | [Analyse](https://unique.domains/domain/dd468fd0-2a1d-4a94-87f4-95a28d6d31eb?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
-| abandoned.accountants  | available | 58       | 10%    | 9      |         |         | [Analyse](https://unique.domains/domain/5de1e5a1-4352-4999-aa06-061eebe5abf5?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
-| abashed.accountants    | available | 60       | 2%     | 7      |         |         | [Analyse](https://unique.domains/domain/d50d477d-7ba4-4e48-b68d-d89bdead6ae1?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
-| abasic.accountants     | available | 54       | 2%     | 6      |         |         | [Analyse](https://unique.domains/domain/85fe4701-435a-48df-adb0-87d5529c1ee2?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
-| abatable.accountants   | available | 54       | 1%     | 8      |         |         | [Analyse](https://unique.domains/domain/3591dfc7-ad23-4585-a138-f523cdb71328?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
-| abatic.accountants     | available | 54       | 2%     | 6      |         |         | [Analyse](https://unique.domains/domain/9b7b8d3c-8f11-4192-af0b-1f24f3bafe60?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
-| abaxial.accountants    | available | 54       | 2%     | 7      |         |         | [Analyse](https://unique.domains/domain/6f72434d-a113-401b-8c69-a045557f15fd?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
-| abbatial.accountants   | available | 50       | 1%     | 8      |         |         | [Analyse](https://unique.domains/domain/ce440ea6-6a80-4548-8ddc-8c11f687f786?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
-| abdicable.accountants  | available | 50       | 1%     | 9      |         |         | [Analyse](https://unique.domains/domain/e9b756bc-0049-4a1b-b322-be604e85128b?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
-| abdominal.accountants  | available | 82       | 2%     | 9      |         |         | [Analyse](https://unique.domains/domain/8efaeb57-978a-449f-be6e-5a1ccdf5c4f8?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
-| abdominous.accountants | available | 56       | 1%     | 10     |         |         | [Analyse](https://unique.domains/domain/1212f5b2-ec8f-412e-b46e-f756584df12e?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
-| abducens.accountants   | available | 54       | 1%     | 8      |         |         | [Analyse](https://unique.domains/domain/0a82a0e9-5571-4f70-af96-f6f32a320bc1?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
-| abducent.accountants   | available | 68       | 1%     | 8      |         |         | [Analyse](https://unique.domains/domain/fd3ed0c4-d8bd-4585-9cb7-7286234a55c1?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
-| abducting.accountants  | available | 50       | 1%     | 9      |         |         | [Analyse](https://unique.domains/domain/e15ca7c2-81c3-4d3f-a189-6273db88f2ea?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
-| abenaki.accountants    | available | 82       | 3%     | 7      |         |         | [Analyse](https://unique.domains/domain/62444891-fdeb-45d8-bad2-2013bf316695?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
-| aberdonian.accountants | available | 68       | 1%     | 10     |         |         | [Analyse](https://unique.domains/domain/3b3c2e42-71ce-416b-9b67-72127c2dfc1f?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
-| aberrant.accountants   | available | 74       | 7%     | 8      |         |         | [Analyse](https://unique.domains/domain/58297a55-a314-4cc7-8c4e-d7ff8183ec16?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
-| abeyant.accountants    | available | 56       | 2%     | 7      |         |         | [Analyse](https://unique.domains/domain/2180b4f4-0cb5-4750-ac10-7bad7e633a67?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
-| abhorrent.accountants  | available | 54       | 1%     | 9      |         |         | [Analyse](https://unique.domains/domain/c236f296-917d-4cf5-acfd-83e2ab29d99a?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
-| abiding.accountants    | available | 106      | 5%     | 7      |         |         | [Analyse](https://unique.domains/domain/93371931-9ace-43a3-9449-ba400b39f3c8?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
-| abient.accountants     | available | 54       | 1%     | 6      |         |         | [Analyse](https://unique.domains/domain/04c42592-d32a-41e7-9b47-0ee44900c599?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
-| abject.accountants     | available | 94       | 8%     | 6      |         |         | [Analyse](https://unique.domains/domain/df730cfb-1df2-45b5-a501-41c05c098730?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
-| abkhas.accountants     | available | 68       | 1%     | 6      |         |         | [Analyse](https://unique.domains/domain/b794d602-8f0b-4d92-af14-4962a9b7ae52?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
-| abkhasian.accountants  | available | 78       | 1%     | 9      |         |         | [Analyse](https://unique.domains/domain/524ed1a4-33e0-496a-a8c3-e020bad03db1?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
-| abkhaz.accountants     | available | 82       | 2%     | 6      |         |         | [Analyse](https://unique.domains/domain/07348dc2-4c37-47a8-bd44-bc6c7d28c250?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
-| abkhazian.accountants  | available | 78       | 1%     | 9      |         |         | [Analyse](https://unique.domains/domain/8e91f22c-1a18-439b-8157-0f0d0af42522?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
-| ablated.accountants    | available | 52       | 2%     | 7      |         |         | [Analyse](https://unique.domains/domain/07ababa2-fe78-4158-a007-157db52dcd8d?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
-| ablative.accountants   | available | 68       | 3%     | 8      |         |         | [Analyse](https://unique.domains/domain/7de404dd-5cac-4ce9-986c-c10ccac0a620?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
-| ablaze.accountants     | available | 72       | 6%     | 6      |         |         | [Analyse](https://unique.domains/domain/db781e79-dbce-4aed-9d85-fad2c343a9a6?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
+| Domain                 | Status    | Attract. | Demand | Length | Registrar | Created | Expires | Actions                                                                                                                                                                                      |
+| ---------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| abactinal.accountants  | available | 50       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/624b951d-d265-4be3-828c-e65a70300163?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
+| abaft.accountants      | available | 43       | 2%     | 5      |           |         |         | [Analyse](https://unique.domains/domain/dd468fd0-2a1d-4a94-87f4-95a28d6d31eb?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
+| abandoned.accountants  | available | 58       | 10%    | 9      |           |         |         | [Analyse](https://unique.domains/domain/5de1e5a1-4352-4999-aa06-061eebe5abf5?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
+| abashed.accountants    | available | 60       | 2%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/d50d477d-7ba4-4e48-b68d-d89bdead6ae1?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
+| abasic.accountants     | available | 54       | 2%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/85fe4701-435a-48df-adb0-87d5529c1ee2?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
+| abatable.accountants   | available | 54       | 1%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/3591dfc7-ad23-4585-a138-f523cdb71328?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
+| abatic.accountants     | available | 54       | 2%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/9b7b8d3c-8f11-4192-af0b-1f24f3bafe60?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
+| abaxial.accountants    | available | 54       | 2%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/6f72434d-a113-401b-8c69-a045557f15fd?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
+| abbatial.accountants   | available | 50       | 1%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/ce440ea6-6a80-4548-8ddc-8c11f687f786?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
+| abdicable.accountants  | available | 50       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/e9b756bc-0049-4a1b-b322-be604e85128b?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
+| abdominal.accountants  | available | 82       | 2%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/8efaeb57-978a-449f-be6e-5a1ccdf5c4f8?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
+| abdominous.accountants | available | 56       | 1%     | 10     |           |         |         | [Analyse](https://unique.domains/domain/1212f5b2-ec8f-412e-b46e-f756584df12e?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
+| abducens.accountants   | available | 54       | 1%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/0a82a0e9-5571-4f70-af96-f6f32a320bc1?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
+| abducent.accountants   | available | 68       | 1%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/fd3ed0c4-d8bd-4585-9cb7-7286234a55c1?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
+| abducting.accountants  | available | 50       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/e15ca7c2-81c3-4d3f-a189-6273db88f2ea?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
+| abenaki.accountants    | available | 82       | 3%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/62444891-fdeb-45d8-bad2-2013bf316695?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
+| aberdonian.accountants | available | 68       | 1%     | 10     |           |         |         | [Analyse](https://unique.domains/domain/3b3c2e42-71ce-416b-9b67-72127c2dfc1f?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
+| aberrant.accountants   | available | 74       | 7%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/58297a55-a314-4cc7-8c4e-d7ff8183ec16?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
+| abeyant.accountants    | available | 56       | 2%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/2180b4f4-0cb5-4750-ac10-7bad7e633a67?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
+| abhorrent.accountants  | available | 54       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/c236f296-917d-4cf5-acfd-83e2ab29d99a?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
+| abiding.accountants    | available | 106      | 5%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/93371931-9ace-43a3-9449-ba400b39f3c8?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
+| abient.accountants     | available | 54       | 1%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/04c42592-d32a-41e7-9b47-0ee44900c599?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
+| abject.accountants     | available | 94       | 8%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/df730cfb-1df2-45b5-a501-41c05c098730?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
+| abkhas.accountants     | available | 68       | 1%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/b794d602-8f0b-4d92-af14-4962a9b7ae52?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
+| abkhasian.accountants  | available | 78       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/524ed1a4-33e0-496a-a8c3-e020bad03db1?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
+| abkhaz.accountants     | available | 82       | 2%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/07348dc2-4c37-47a8-bd44-bc6c7d28c250?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
+| abkhazian.accountants  | available | 78       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/8e91f22c-1a18-439b-8157-0f0d0af42522?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
+| ablated.accountants    | available | 52       | 2%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/07ababa2-fe78-4158-a007-157db52dcd8d?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
+| ablative.accountants   | available | 68       | 3%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/7de404dd-5cac-4ce9-986c-c10ccac0a620?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
+| ablaze.accountants     | available | 72       | 6%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/db781e79-dbce-4aed-9d85-fad2c343a9a6?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.domain.analyze) |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/accountants-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
     <a href="https://github.com/UniqueDomains/accountants-oneword-domains/blob/main/all.csv"><b>⬇️ CSV (1K domains)</b></a> •
     <a href="https://github.com/UniqueDomains/accountants-oneword-domains/blob/main/all.json"><b>⬇️ JSON (1K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.26K)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.4K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
@@ -66,12 +66,24 @@ If you want to search & filters the complete database of [.ACCOUNTANTS one word 
 
 - **Domain Name**: High-quality, single-word .ACCOUNTANTS domains.
 - **Status**: The current status of the domain: Available, Expired, Expiring, For Sale, ...
-- **Attractiveness**: The attractiveness score of the domain, evaluated by the word type, length, sentiment, popularity and brandability. The higher the score, the more attractive the domain is at eyes of people.
+- **Attract.**: The attractiveness score of the domain, evaluated by the word type, length, sentiment, popularity and brandability. The higher the score, the more attractive the domain is at eyes of people.
 - **Demand**: The buyer pressure for domain names based on this word. 0 is no demand, and 100 is high probability of being sold soon. Formula: domains sold with this word / total domains tested with this word.
 - **Length**: The word length of the domain (without the TLD)
+- **Registrar**: The registrar of the domain.
 - **Created**: The date the domain was created.
 - **Expires**: The date the domain expires.
-- **Registrar**: The registrar of the domain.
+
+**Online Database**:
+
+- Estimated value (from GoDaddy)
+- Business ideas (from GPT-5 highest version + web search)
+
+SEO analysis (on existing domains)
+- Domain Rating
+- Backlinks
+- Traffic vokume
+- Referring domains
+- Organic keywords
 
 # More One Word Domains
 
@@ -79,18 +91,18 @@ If you want to search & filters the complete database of [.ACCOUNTANTS one word 
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 19,429       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 44,507       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 2,881,227    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expired  | 19,522       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 45,166       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 2,936,903    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
 | -------------- | ------------ | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| .AC            | 3,085        | [Github](https://github.com/UniqueDomains/ac-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.link)            |
-| .ACADEMY       | 2,840        | [Github](https://github.com/UniqueDomains/academy-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.link)       |
-| .ACCOUNTANT    | 3,299        | [Github](https://github.com/UniqueDomains/accountant-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountant-oneword-domains&utm_content=table.link)    |
-| .ACCOUNTANTS   | 3,259        | [Github](https://github.com/UniqueDomains/accountants-oneword-domains)   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.link)   |
-| .ACTOR         | 3,244        | [Github](https://github.com/UniqueDomains/actor-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.link)         |
+| .AC            | 3,176        | [Github](https://github.com/UniqueDomains/ac-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.link)            |
+| .ACADEMY       | 2,934        | [Github](https://github.com/UniqueDomains/academy-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.link)       |
+| .ACCOUNTANT    | 3,446        | [Github](https://github.com/UniqueDomains/accountant-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountant-oneword-domains&utm_content=table.link)    |
+| .ACCOUNTANTS   | 3,402        | [Github](https://github.com/UniqueDomains/accountants-oneword-domains)   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.link)   |
+| .ACTOR         | 3,382        | [Github](https://github.com/UniqueDomains/actor-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.link)         |
 | .ADULT         | 3,259        | [Github](https://github.com/UniqueDomains/adult-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.link)         |
 | .AG            | 3,131        | [Github](https://github.com/UniqueDomains/ag-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ag-oneword-domains&utm_content=table.link)            |
 | .AGENCY        | 2,504        | [Github](https://github.com/UniqueDomains/agency-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=agency-oneword-domains&utm_content=table.link)        |
