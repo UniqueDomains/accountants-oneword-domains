@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .ACCOUNTANTS one-word domains still available to buy.
 
-This dataset contains 4,195 .ACCOUNTANTS one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,198 .ACCOUNTANTS one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.ACCOUNTANTS one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=description.top) (3,931) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -31,7 +31,7 @@ If you want to search & filters the complete database of [.ACCOUNTANTS one word 
 | abaxial.accountants    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.accountants   | available | 50       | 1%     | 8      |           |         |         |
 | abdicable.accountants  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.accountants  | available | 82       | 2%     | 9      |           |         |         |
+| abdominal.accountants  | available | 82       | 1%     | 9      |           |         |         |
 | abdominous.accountants | available | 56       | 1%     | 10     |           |         |         |
 | abducens.accountants   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.accountants   | available | 68       | 1%     | 8      |           |         |         |
