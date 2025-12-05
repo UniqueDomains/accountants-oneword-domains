@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .ACCOUNTANTS one-word domains still available to buy.
 
-This dataset contains 4,836 .ACCOUNTANTS one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,835 .ACCOUNTANTS one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.ACCOUNTANTS one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=description.top) (4,836) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -25,7 +25,7 @@ If you want to search & filters the complete database of [.ACCOUNTANTS one word 
 | aaron.accountants      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.accountants  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.accountants      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.accountants  | available | 58       | 10%    | 9      |           |         |         |
+| abandoned.accountants  | available | 58       | 7%     | 9      |           |         |         |
 | abashed.accountants    | available | 60       | 2%     | 7      |           |         |         |
 | abasic.accountants     | available | 54       | 2%     | 6      |           |         |         |
 | abatable.accountants   | available | 54       | 1%     | 8      |           |         |         |
@@ -34,7 +34,7 @@ If you want to search & filters the complete database of [.ACCOUNTANTS one word 
 | abbatial.accountants   | available | 50       | 1%     | 8      |           |         |         |
 | abc.accountants        | available | 102      | 41%    | 3      |           |         |         |
 | abdicable.accountants  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.accountants  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.accountants  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.accountants | available | 56       | 1%     | 10     |           |         |         |
 | abducens.accountants   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.accountants   | available | 68       | 1%     | 8      |           |         |         |
@@ -43,7 +43,7 @@ If you want to search & filters the complete database of [.ACCOUNTANTS one word 
 | aberdonian.accountants | available | 68       | 1%     | 10     |           |         |         |
 | aberrant.accountants   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.accountants    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.accountants  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.accountants  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.accountants    | available | 106      | 5%     | 7      |           |         |         |
 | abient.accountants     | available | 54       | 1%     | 6      |           |         |         |
 | ability.accountants    | available | 92       | 18%    | 7      |           |         |         |
