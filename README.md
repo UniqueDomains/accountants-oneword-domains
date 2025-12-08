@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .ACCOUNTANTS one-word domains still available to buy.
 
-This dataset contains 4,872 .ACCOUNTANTS one word domains with availability, attractiveness and demand scores.
+This dataset contains 5,145 .ACCOUNTANTS one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.ACCOUNTANTS one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=description.top) (4,868) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,16 +13,16 @@ If you want to search & filters the complete database of [.ACCOUNTANTS one word 
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/accountants-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/accountants-oneword-domains/blob/main/accountants.csv"><b>⬇️ CSV (4.87K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/accountants-oneword-domains/blob/main/accountants.json"><b>⬇️ JSON (4.87K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/accountants-oneword-domains/blob/main/accountants.csv"><b>⬇️ CSV (5.15K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/accountants-oneword-domains/blob/main/accountants.json"><b>⬇️ JSON (5.15K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.87K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
 | Domain                 | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ---------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.accountants        | premium   | 70       | 38%    | 3      |           |         |         |
-| aaron.accountants      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.accountants        | premium   | 70       | 35%    | 3      |           |         |         |
+| aaron.accountants      | available | 88       | 28%    | 5      |           |         |         |
 | abactinal.accountants  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.accountants      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.accountants  | available | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.ACCOUNTANTS one word 
 | abatic.accountants     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.accountants    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.accountants   | available | 50       | 1%     | 8      |           |         |         |
-| abc.accountants        | premium   | 102      | 41%    | 3      |           |         |         |
+| abc.accountants        | premium   | 102      | 39%    | 3      |           |         |         |
 | abdicable.accountants  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.accountants  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.accountants | available | 56       | 1%     | 10     |           |         |         |
@@ -44,18 +44,18 @@ If you want to search & filters the complete database of [.ACCOUNTANTS one word 
 | aberrant.accountants   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.accountants    | available | 56       | 2%     | 7      |           |         |         |
 | abhorrent.accountants  | available | 54       | 3%     | 9      |           |         |         |
+| abide.accountants      | available | 94       | 15%    | 5      |           |         |         |
 | abiding.accountants    | available | 106      | 5%     | 7      |           |         |         |
 | abient.accountants     | available | 54       | 1%     | 6      |           |         |         |
-| ability.accountants    | available | 92       | 18%    | 7      |           |         |         |
-| abit.accountants       | available | 66       | 16%    | 5      |           |         |         |
+| ability.accountants    | available | 92       | 16%    | 7      |           |         |         |
+| abit.accountants       | available | 66       | 12%    | 5      |           |         |         |
 | abject.accountants     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.accountants     | available | 68       | 1%     | 6      |           |         |         |
-| abkhasian.accountants  | available | 78       | 1%     | 9      |           |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/accountants-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/accountants-oneword-domains/blob/main/accountants.csv"><b>⬇️ CSV (4.87K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/accountants-oneword-domains/blob/main/accountants.json"><b>⬇️ JSON (4.87K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/accountants-oneword-domains/blob/main/accountants.csv"><b>⬇️ CSV (5.15K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/accountants-oneword-domains/blob/main/accountants.json"><b>⬇️ JSON (5.15K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.87K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.ACCOUNTANTS one word 
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
