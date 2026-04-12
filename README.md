@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .accountants one-word domains from
 
 **Public extract:** 9,771 rows · **Live catalog:** 9,771 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/accountants`  
 **Best for:** founders, investors, studios
 
@@ -79,10 +79,10 @@ print(df.head())
 | game.accountants       | available | $43.99    | $153.99       | 120            | 50     | 4      | name.com         |
 | fast.accountants       | premium   | $128.70   | $128.70       | 82             | 53     | 4      | namecheap        |
 | design.accountants     | available | $43.99    | $153.99       | 108            | 50     | 6      | name.com         |
-| one.accountants        | premium   | $128.70   | $128.70       | 132            | 51     | 3      | namecheap        |
+| one.accountants        | premium   | $128.70   | $128.70       | 132            | 50     | 3      | namecheap        |
 | digital.accountants    | available | $43.99    | $153.99       | 100            | 50     | 7      | name.com         |
 | abc.accountants        | premium   | $128.70   | $128.70       | 102            | 50     | 3      | namecheap        |
-| clear.accountants      | available | $43.99    | $153.99       | 90             | 50     | 5      | name.com         |
+| clear.accountants      | available | $43.99    | $153.99       | 90             | 49     | 5      | name.com         |
 | life.accountants       | premium   | $128.70   | $128.70       | 84             | 50     | 4      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ACCOUNTANTS One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ACCOUNTANTS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
