@@ -69,7 +69,7 @@ print(df.head())
 | enterprise.accountants | premium   | $1,040    | $1,040        | 68             | 61     | 10     | namecheap        |
 | data.accountants       | available | $145.98   | —             | 70             | 56     | 4      | namecheap        |
 | auto.accountants       | resell    | —         | —             | 68             | 45     | 4      | Dynadot Inc      |
-| free.accountants       | premium   | $500      | $500          | 88             | 59     | 4      | name.com         |
+| free.accountants       | premium   | $500      | $500          | 88             | 57     | 4      | name.com         |
 | art.accountants        | available | $145.98   | —             | 90             | 52     | 3      | namecheap        |
 | that.accountants       | resell    | —         | —             | 94             | 36     | 4      | GoDaddy.com, LLC |
 | good.accountants       | premium   | $500      | $500          | 82             | 55     | 4      | name.com         |
