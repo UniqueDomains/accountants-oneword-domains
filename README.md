@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .accountants one-word domai
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,750 domains · **Median ask:** $54.96 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/accountants`  
 **Best for:** founders, investors, studios
 
@@ -75,13 +75,13 @@ print(df.head())
 | maps.accountants         | available | $43.99    | —             | 56             | 31     | 4      | name.com  |
 | solutions.accountants    | available | $43.99    | —             | 56             | 31     | 9      | name.com  |
 | videos.accountants       | available | $43.99    | —             | 52             | 30     | 6      | name.com  |
+| gods.accountants         | available | $43.99    | —             | 72             | 29     | 4      | name.com  |
 | heroes.accountants       | available | $43.99    | —             | 68             | 29     | 6      | name.com  |
 | cams.accountants         | available | $43.99    | —             | 52             | 29     | 4      | name.com  |
 | Jim.accountants          | available | $145.98   | —             | 78             | 28     | 3      | namecheap |
 | gems.accountants         | available | $43.99    | —             | 70             | 28     | 4      | name.com  |
 | brands.accountants       | available | $43.99    | —             | 62             | 28     | 6      | name.com  |
 | KFC.accountants          | available | $145.98   | —             | 74             | 27     | 3      | namecheap |
-| gods.accountants         | available | $43.99    | —             | 72             | 27     | 4      | name.com  |
 | bees.accountants         | available | $43.99    | —             | 54             | 27     | 4      | name.com  |
 | tips.accountants         | available | $43.99    | —             | 80             | 26     | 4      | name.com  |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ACCOUNTANTS One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ACCOUNTANTS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
