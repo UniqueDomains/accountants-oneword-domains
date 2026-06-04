@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .accountants one-word domai
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,750 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,750 domains · **Median ask:** $54.96 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,750 domains · **Median ask:** $49.23 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/accountants`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| skills.accountants       | available | $43.99    | —             | 58             | 47     | 6      | name.com  |
-| coins.accountants        | available | $43.99    | —             | 56             | 41     | 5      | name.com  |
-| Tools.accountants        | available | $145.98   | —             | 56             | 40     | 5      | namecheap |
-| neuroscience.accountants | available | $43.99    | —             | 80             | 37     | 12     | name.com  |
-| stories.accountants      | available | $43.99    | —             | 58             | 36     | 7      | name.com  |
-| aliens.accountants       | available | $43.99    | —             | 56             | 35     | 6      | name.com  |
-| tickets.accountants      | available | $43.99    | —             | 64             | 34     | 7      | name.com  |
-| Cats.accountants         | available | $145.98   | —             | 59             | 33     | 4      | namecheap |
-| maps.accountants         | available | $43.99    | —             | 56             | 31     | 4      | name.com  |
-| solutions.accountants    | available | $43.99    | —             | 56             | 31     | 9      | name.com  |
-| videos.accountants       | available | $43.99    | —             | 52             | 30     | 6      | name.com  |
-| gods.accountants         | available | $43.99    | —             | 72             | 29     | 4      | name.com  |
-| heroes.accountants       | available | $43.99    | —             | 68             | 29     | 6      | name.com  |
-| cams.accountants         | available | $43.99    | —             | 52             | 29     | 4      | name.com  |
-| Jim.accountants          | available | $145.98   | —             | 78             | 28     | 3      | namecheap |
-| gems.accountants         | available | $43.99    | —             | 70             | 28     | 4      | name.com  |
-| brands.accountants       | available | $43.99    | —             | 62             | 28     | 6      | name.com  |
-| KFC.accountants          | available | $145.98   | —             | 74             | 27     | 3      | namecheap |
-| bees.accountants         | available | $43.99    | —             | 54             | 27     | 4      | name.com  |
-| tips.accountants         | available | $43.99    | —             | 80             | 26     | 4      | name.com  |
+| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| easy.accountants      | available | $43.99    | $153.99       | 128            | 67     | 4      | name.com        |
+| wealth.accountants    | resell    | —         | —             | 84             | 33     | 6      | NameCheap, Inc. |
+| world.accountants     | premium   | $854      | $854          | 88             | 53     | 5      | namesilo        |
+| moon.accountants      | available | $43.99    | —             | 78             | 53     | 4      | name.com        |
+| abc.accountants       | premium   | $128.70   | $128.70       | 102            | 50     | 3      | namecheap       |
+| macedonia.accountants | available | $43.99    | —             | 70             | 52     | 9      | name.com        |
+| Media.accountants     | premium   | $128.70   | $128.70       | 78             | 47     | 5      | namecheap       |
+| just.accountants      | available | $43.99    | —             | 150            | 50     | 4      | name.com        |
+| family.accountants    | premium   | $854      | $854          | 106            | 45     | 6      | namesilo        |
+| game.accountants      | available | $43.99    | $153.99       | 120            | 50     | 4      | name.com        |
+| simply.accountants    | premium   | $118.80   | $118.80       | 68             | 41     | 6      | namesilo        |
+| core.accountants      | available | $43.99    | —             | 68             | 50     | 4      | name.com        |
+| club.accountants      | premium   | $118.80   | $118.80       | 94             | 39     | 4      | namesilo        |
+| bridge.accountants    | available | $43.99    | —             | 68             | 49     | 6      | name.com        |
+| save.accountants      | premium   | $118.80   | $118.80       | 70             | 39     | 4      | namesilo        |
+| index.accountants     | available | $43.99    | —             | 64             | 49     | 5      | name.com        |
+| hot.accountants       | premium   | $118.80   | $118.80       | 98             | 38     | 3      | namesilo        |
+| digital.accountants   | available | $43.99    | $153.99       | 100            | 48     | 7      | name.com        |
+| DIY.accountants       | premium   | $118.80   | $118.80       | 114            | 37     | 3      | namesilo        |
+| network.accountants   | available | $43.99    | —             | 90             | 47     | 7      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ACCOUNTANTS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ACCOUNTANTS One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
