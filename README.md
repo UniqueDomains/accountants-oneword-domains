@@ -1,10 +1,10 @@
-# Available .ACCOUNTANTS One-Word Domains (12,750)
+# Available .ACCOUNTANTS One-Word Domains (12,753)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C750%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C753%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .accountants one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,750 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,753 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,750 domains · **Median ask:** $49.23 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,753 domains · **Median ask:** $48.58 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/accountants`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/accountants`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .ACCOUNTANTS one-word 
 
 ### Files
 
-- `accountants.csv` — public CSV extract (1,000 rows)
-- `accountants.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `accountants.csv`, public CSV extract (1,000 rows)
+- `accountants.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| easy.accountants      | available | $43.99    | $153.99       | 128            | 67     | 4      | name.com        |
-| wealth.accountants    | resell    | —         | —             | 84             | 33     | 6      | NameCheap, Inc. |
-| world.accountants     | premium   | $854      | $854          | 88             | 53     | 5      | namesilo        |
-| moon.accountants      | available | $43.99    | —             | 78             | 53     | 4      | name.com        |
-| abc.accountants       | premium   | $128.70   | $128.70       | 102            | 50     | 3      | namecheap       |
-| macedonia.accountants | available | $43.99    | —             | 70             | 52     | 9      | name.com        |
-| Media.accountants     | premium   | $128.70   | $128.70       | 78             | 47     | 5      | namecheap       |
-| just.accountants      | available | $43.99    | —             | 150            | 50     | 4      | name.com        |
-| family.accountants    | premium   | $854      | $854          | 106            | 45     | 6      | namesilo        |
-| game.accountants      | available | $43.99    | $153.99       | 120            | 50     | 4      | name.com        |
-| simply.accountants    | premium   | $118.80   | $118.80       | 68             | 41     | 6      | namesilo        |
-| core.accountants      | available | $43.99    | —             | 68             | 50     | 4      | name.com        |
-| club.accountants      | premium   | $118.80   | $118.80       | 94             | 39     | 4      | namesilo        |
-| bridge.accountants    | available | $43.99    | —             | 68             | 49     | 6      | name.com        |
-| save.accountants      | premium   | $118.80   | $118.80       | 70             | 39     | 4      | namesilo        |
-| index.accountants     | available | $43.99    | —             | 64             | 49     | 5      | name.com        |
-| hot.accountants       | premium   | $118.80   | $118.80       | 98             | 38     | 3      | namesilo        |
-| digital.accountants   | available | $43.99    | $153.99       | 100            | 48     | 7      | name.com        |
-| DIY.accountants       | premium   | $118.80   | $118.80       | 114            | 37     | 3      | namesilo        |
-| network.accountants   | available | $43.99    | —             | 90             | 47     | 7      | name.com        |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| ago.accountants    | available | $43.99    | $153.99       | medium         | low    | 3      | name.com        |
+| wealth.accountants | resell    | —         | —             | high           | low    | 6      | NameCheap, Inc. |
+| abc.accountants    | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap       |
+| ain.accountants    | available | $43.99    | $153.99       | low            | low    | 3      | name.com        |
+| DIY.accountants    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
+| axe.accountants    | available | $43.99    | —             | medium         | low    | 3      | name.com        |
+| hot.accountants    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
+| bar.accountants    | available | $43.99    | —             | high           | low    | 3      | name.com        |
+| club.accountants   | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo        |
+| bed.accountants    | available | $43.99    | —             | high           | low    | 3      | name.com        |
+| save.accountants   | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo        |
+| bra.accountants    | available | $43.99    | —             | medium         | low    | 3      | name.com        |
+| Media.accountants  | premium   | $128.70   | $128.70       | high           | medium | 5      | namecheap       |
+| cue.accountants    | available | $43.99    | —             | medium         | low    | 3      | name.com        |
+| world.accountants  | premium   | $854      | $854          | high           | medium | 5      | namesilo        |
+| did.accountants    | available | $43.99    | —             | high           | low    | 3      | name.com        |
+| family.accountants | premium   | $854      | $854          | high           | medium | 6      | namesilo        |
+| eye.accountants    | available | $43.99    | —             | medium         | low    | 3      | name.com        |
+| simply.accountants | premium   | $118.80   | $118.80       | medium         | medium | 6      | namesilo        |
+| fig.accountants    | available | $43.99    | —             | medium         | low    | 3      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,750 live domains                        |
+| 1,000-row public sample | 12,753 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all in the .accountants extension, which makes the category highly specific from the start. For founders, the best candidates are the ones that read cleanly, fit accounting trust signals, and are easy to say and remember. Examples like meter.accountants or natural.accountants are more straightforward than abstract or awkward choices like seeming.accountants. For investors, the median ask of 54.96 keeps entry price modest, but resale depth can be uneven in a niche extension. When comparing this set, weigh exact-word clarity, commercial relevance to accounting, renewal burden, and obvious trademark conflicts before treating a low ask as attractive.
+This list of domains covers the .accountants extension exclusively, spanning one-word and short-phrase names built for accounting, tax, and finance-adjacent brands. Of the 12,753 domains tracked, 12,648 are currently available and 101 carry premium status. The vast majority price under $500, with median ask sitting at $48.58, making this set accessible for founders comparing options and for investors scanning for early-stage plays before names attract demand.
 
-- The full set is one-word names in the .accountants TLD
-- Median ask is 54.96 across 12,749 listed domains
-- Clear generic words usually beat obscure or awkward terms
-- Avoid names with obvious trademark exposure
+- 12,648 of 12,753 domains are available now
+- Median ask price: $48.58 across the set
+- 11,633 domains priced under $500
+- 101 domains carry premium pricing status
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ACCOUNTANTS One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ACCOUNTANTS One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
