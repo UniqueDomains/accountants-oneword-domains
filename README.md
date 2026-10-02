@@ -1,10 +1,10 @@
-# Available .ACCOUNTANTS One-Word Domains (31,763)
+# Available .ACCOUNTANTS One-Word Domains (33,274)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C763%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C274%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .accountants one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,763 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **33,274 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,763 domains · **Median ask:** $93.44 · **High-demand under $2,500:** 8
+**Public extract:** 1,000 rows · **Live catalog:** 33,274 domains · **Median ask:** $93.77 · **High-demand under $2,500:** 7
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/accountants`
 **Best for:** founders, investors, studios
 
@@ -67,23 +67,23 @@ print(df.head())
 | abo.accountants      | available | $43.99    | $153.99       | high           | low    | 3      | name.com   |
 | gold.accountants     | premium   | $512      | $512          | high           | medium | 4      | namesilo   |
 | adr.accountants      | available | $23.17    | $93.20        | high           | low    | 3      | porkbun    |
-| about.accountants    | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo   |
-| aug.accountants      | available | $43.99    | $153.99       | high           | low    | 3      | name.com   |
 | green.accountants    | premium   | $118.80   | $118.80       | high           | medium | 5      | namesilo   |
-| ben.accountants      | available | $93.35    | $93.35        | high           | medium | 3      | spaceship  |
-| business.accountants | premium   | $440      | $440          | high           | medium | 8      | dynadot    |
-| bja.accountants      | available | $122.98   | $145.98       | medium         | low    | 3      | namecheap  |
+| ama.accountants      | available | $90.20    | $90.20        | high           | low    | 3      | cloudflare |
+| business.accountants | premium   | $414.20   | $414.20       | high           | medium | 8      | spaceship  |
+| aug.accountants      | available | $43.99    | $153.99       | high           | low    | 3      | name.com   |
 | payroll.accountants  | premium   | —         | —             | high           | low    | 7      | —          |
+| bja.accountants      | available | $122.98   | $145.98       | medium         | low    | 3      | namecheap  |
 | bob.accountants      | available | $117.99   | $117.99       | high           | medium | 3      | namesilo   |
 | deo.accountants      | available | $93.35    | $93.35        | high           | low    | 3      | spaceship  |
 | dew.accountants      | available | $90.20    | $90.20        | high           | low    | 3      | cloudflare |
-| dis.accountants      | available | $117.99   | $117.99       | high           | low    | 3      | namesilo   |
 | djs.accountants      | available | $90.20    | $90.20        | medium         | low    | 3      | cloudflare |
 | dod.accountants      | available | $93.35    | $93.35        | high           | low    | 3      | spaceship  |
 | fai.accountants      | available | $117.99   | $117.99       | high           | low    | 3      | namesilo   |
 | gel.accountants      | available | $122.98   | $145.98       | high           | low    | 3      | namecheap  |
 | hie.accountants      | available | $122.98   | $145.98       | medium         | low    | 3      | namecheap  |
 | hon.accountants      | available | $117.99   | $117.99       | high           | low    | 3      | namesilo   |
+| iit.accountants      | available | $93.35    | $93.35        | high           | low    | 3      | spaceship  |
+| isp.accountants      | available | $93.35    | $93.35        | high           | low    | 3      | spaceship  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,763 live domains                        |
+| 1,000-row public sample | 33,274 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 8 high-demand names under $2,500           |
+| Basic exported fields   | 7 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ACCOUNTANTS One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ACCOUNTANTS One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
